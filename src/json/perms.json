@@ -1,0 +1,13 @@
+{
+	"ban" : "BAN_MEMBERS",
+	"kick" : "KICK_MEMBERS",
+	"anunciar" : "MANAGE_MESSAGES",
+	"mutar" : "MANAGE_ROLES",
+	"desmutar" : "MANAGE_MESSAGES",
+	"desbanir" : "BAN_MEMBERS",
+	"warn" : "MANAGE_MESSAGES",
+	"clearchat" : "MANAGE_MESSAGES",
+	"configguild" : "MANAGE_GUILD",
+	"configmax" : "ADMINISTRATOR",
+	"configchannel" : "MANAGE_CHANNELS"
+}

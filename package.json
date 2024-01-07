@@ -1,0 +1,33 @@
+{
+  "name": "lipebot",
+  "version": "1.1.0",
+  "description": "Simples bot para a comunidade do Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquelemesmo/lipebot.git"
+  },
+  "author": "Jack2315",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquelemesmo/lipebot/issues"
+  },
+  "homepage": "https://github.com/aquelemesmo/lipebot#readme",
+  "dependencies": {
+    "discord-buttons": "^2.4.1",
+    "discord.js": "^12.5.1",
+    "erela.js": "^2.3.3",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "os": "^0.1.1",
+    "quick.db": "^7.1.3",
+    "request": "^2.88.2",
+    "systeminformation": "^5.3.4",
+    "better-sqlite3" : "^5.4.0"
+  }
+}

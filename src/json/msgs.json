@@ -1,0 +1,9 @@
+{
+	"semPerm" : "Você não tem permissão para usar esse comando",
+	"semMembro" : "Você não mencionou um membro",
+	"semPermDev" : "Só o meu desenvolvedor pode executar esse comando",
+	"semMotivo" : "Você não colocou um motivo",
+	"semCargo" : "Eu não consegui encontrar o cargo para silenciar o usuário",
+	"punirID" : "Não quero punir você próprio...",
+	"punirBannable" : "Eu não consigo punir esse tipo de usuário, o cargo dele e maior que o meu!"
+}
